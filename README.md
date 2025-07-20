@@ -7,7 +7,8 @@
 
 "From the Heart of India, to the Soul of the Planet."
 
-DEVYAAN-SAT is a 1U CubeSat developed under a student initiative, aimed at real-time environmental monitoring from Low Earth Orbit (LEO). This project represents a youth-led contribution to ISRO’s vision of accessible, purpose-driven space technology.
+DEVYAAN-SAT is a 1U CubeSat developed under a student initiative, aimed at real-time environmental monitoring 
+from Low Earth Orbit (LEO). This project represents a youth-led contribution to ISRO’s vision of accessible, purpose-driven space technology.
 
 ## 📡 Mission Goals
 - Monitor urban air quality and temperature from LEO
